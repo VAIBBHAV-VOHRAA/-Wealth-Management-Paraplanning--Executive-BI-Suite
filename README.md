@@ -120,7 +120,7 @@ Sorts individual accounts by contraction percentage to isolate flight risk.
 Pinpoints the primary firm-wide risk driver: Ananya Raja (-23.53% contraction, falling from $1.70M to $1.30M) under Alexander Hayes.
 
 
-D. Business Impact & Key Analytical Insights
+### D. Business Impact & Key Analytical Insights
 
 Key-Person & Concentration Vulnerability:
 
