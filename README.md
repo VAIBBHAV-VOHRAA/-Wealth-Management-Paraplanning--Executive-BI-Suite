@@ -19,8 +19,8 @@ In boutique paraplanning and wealth management practices, maintaining portfolio 
 *   **SQL:** Data extraction and preliminary exploration .
 *   **Power BI Desktop:** Dashboard creation, data visualization, and reporting.
 *   **Power Query:** Data cleaning, transformation, and shaping.
-*   **DAX (Data Analysis Expressions):** Creating calculated columns and measures for advanced metrics (e.g., Profit Margin %, Average Revenue per Store, Days of Supply).
-*   **Data Modeling:** Establishing relationships between sales, products, stores, and inventory tables.
+*   **DAX (Data Analysis Expressions):** Creating calculated columns and measures for advanced metrics (e.g., average AUM, MOM growth , mom growth % , total AUM, Total AUM PM, Total clients).
+*   **Data Modeling:** Establishing relationships between dim_advisor, dim_assetclass, dim_client_n, dim_date, dim_producttype, fact_aum_montly_n, advisors_performance, advisors performance pm .
 *   **File Formats:** `.pbix` for development and `.png` for dashboard previews.
 
 
